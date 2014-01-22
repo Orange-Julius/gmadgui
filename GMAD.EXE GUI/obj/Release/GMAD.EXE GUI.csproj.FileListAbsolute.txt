@@ -1,0 +1,8 @@
+c:\users\jake\documents\visual studio 2012\Projects\GMAD.EXE GUI\GMAD.EXE GUI\bin\Release\gmad.exe GUI.exe.config
+c:\users\jake\documents\visual studio 2012\Projects\GMAD.EXE GUI\GMAD.EXE GUI\bin\Release\gmad.exe GUI.exe
+c:\users\jake\documents\visual studio 2012\Projects\GMAD.EXE GUI\GMAD.EXE GUI\bin\Release\gmad.exe GUI.pdb
+c:\users\jake\documents\visual studio 2012\Projects\GMAD.EXE GUI\GMAD.EXE GUI\obj\Release\GMAD.EXE_GUI.Form1.resources
+c:\users\jake\documents\visual studio 2012\Projects\GMAD.EXE GUI\GMAD.EXE GUI\obj\Release\GMAD.EXE_GUI.Properties.Resources.resources
+c:\users\jake\documents\visual studio 2012\Projects\GMAD.EXE GUI\GMAD.EXE GUI\obj\Release\GMAD.EXE GUI.csproj.GenerateResource.Cache
+c:\users\jake\documents\visual studio 2012\Projects\GMAD.EXE GUI\GMAD.EXE GUI\obj\Release\gmad.exe GUI.exe
+c:\users\jake\documents\visual studio 2012\Projects\GMAD.EXE GUI\GMAD.EXE GUI\obj\Release\gmad.exe GUI.pdb
